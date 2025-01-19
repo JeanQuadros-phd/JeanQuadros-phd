@@ -1,7 +1,7 @@
 # Carlos Jean Ferreira de Quadros
 
 👋 **Bem-vindo ao meu perfil!**  
-Sou **PhD em Computação Aplicada**, professor universitário e pesquisador com foco em **Machine Learning**, **Matemática Computacional** e **Desenvolvimento de Dashboards Web**. Meu objetivo é unir ciência e tecnologia para resolver problemas reais, promovendo inovação e sustentabilidade.  
+Sou professor universitário e pesquisador doutor em **Computação Aplicada**,com foco em **Machine Learning**, **Matemática Computacional** e **Desenvolvimento de Dashboards Web**. Meu objetivo é unir ciência e tecnologia para resolver problemas reais, promovendo inovação e sustentabilidade.  
 
 🌎 Atualmente, sou **Professor Adjunto** na Universidade Federal Rural da Amazônia (UFRA), onde também integro o **Núcleo de Pesquisas em Computação Aplicada (CNPq/UFRA)**.  
 
