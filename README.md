@@ -27,10 +27,14 @@ Sou **PhD em Computação Aplicada**, professor universitário e pesquisador com
 - **Dashboards e Visualização:** D3.js, PlotlyJS, Power BI.  
 - **Sistemas Distribuídos e DevOps:** Docker, Git, GitHub Actions, CI/CD.  
 
-### **Certificações**
-- **Azure Fundamentals** – Microsoft.  
-- **Scientific Computing with Python** – FreeCodeCamp.  
-- **Visualização de Dados com D3** – FreeCodeCamp.  
+### Certificações  
+- [Responsive Web Design - FreeCodeCamp](https://www.freecodecamp.org/certification/JeanQuadros/responsive-web-design)  
+- [Front End Development Libraries - FreeCodeCamp](https://www.freecodecamp.org/certification/JeanQuadros/front-end-development-libraries)  
+- [Data Visualization - FreeCodeCamp](https://www.freecodecamp.org/certification/JeanQuadros/data-visualization)  
+- [Scientific Computing with Python - FreeCodeCamp](https://www.freecodecamp.org/certification/JeanQuadros/scientific-computing-with-python-v7)  
+- [Data Analysis with Python - FreeCodeCamp](https://www.freecodecamp.org/certification/JeanQuadros/data-analysis-with-python-v7)  
+- [JavaScript Algorithms and Data Structures - FreeCodeCamp](https://www.freecodecamp.org/certification/JeanQuadros/javascript-algorithms-and-data-structures)  
+- **Azure Fundamentals** – Microsoft. (Em conclusão)  
 - **Aprendizado de Máquina com Python** – FreeCodeCamp.  
 - **Full Stack Pro: JavaScript Stack** – Sujeito Programador.  
 
