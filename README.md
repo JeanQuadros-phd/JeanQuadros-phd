@@ -5,7 +5,7 @@ Sou **PhD em Computação Aplicada**, professor universitário e pesquisador com
 
 🌎 Atualmente, sou **Professor Adjunto** na Universidade Federal Rural da Amazônia (UFRA), onde também integro o **Núcleo de Pesquisas em Computação Aplicada (CNPq/UFRA)**.  
 
-💼 **LinkedIn:** [Carlos Jean Quadros](https://www.linkedin.com/in/carlosjeanquadros/)  
+💼 **LinkedIn:** [Carlos Jean Quadros](https://www.linkedin.com/in/carlos-jean-quadros-378523aa)  
 📜 **Currículo Lattes:** [Carlos Jean Quadros](http://lattes.cnpq.br/7671868007529068)  
 🔗 **Portfólio de Projetos:** [GitHub](https://github.com/JeanQuadros-phd)  
 
