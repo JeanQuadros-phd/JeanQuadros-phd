@@ -28,15 +28,15 @@ Sou **PhD em Computação Aplicada**, professor universitário e pesquisador com
 - **Sistemas Distribuídos e DevOps:** Docker, Git, GitHub Actions, CI/CD.  
 
 ### Certificações  
-- [Responsive Web Design - FreeCodeCamp](https://www.freecodecamp.org/certification/JeanQuadros/responsive-web-design)  
-- [Front End Development Libraries - FreeCodeCamp](https://www.freecodecamp.org/certification/JeanQuadros/front-end-development-libraries)  
-- [Data Visualization - FreeCodeCamp](https://www.freecodecamp.org/certification/JeanQuadros/data-visualization)  
-- [Scientific Computing with Python - FreeCodeCamp](https://www.freecodecamp.org/certification/JeanQuadros/scientific-computing-with-python-v7)  
-- [Data Analysis with Python - FreeCodeCamp](https://www.freecodecamp.org/certification/JeanQuadros/data-analysis-with-python-v7)  
-- [JavaScript Algorithms and Data Structures - FreeCodeCamp](https://www.freecodecamp.org/certification/JeanQuadros/javascript-algorithms-and-data-structures)  
+- [Responsive Web Design 300h - FreeCodeCamp](https://www.freecodecamp.org/certification/JeanQuadros/responsive-web-design)  
+- [Front End Development Libraries 300h - FreeCodeCamp](https://www.freecodecamp.org/certification/JeanQuadros/front-end-development-libraries)  
+- [Data Visualization 300h - FreeCodeCamp](https://www.freecodecamp.org/certification/JeanQuadros/data-visualization)  
+- [Scientific Computing with Python 300h - FreeCodeCamp](https://www.freecodecamp.org/certification/JeanQuadros/scientific-computing-with-python-v7)  
+- [Data Analysis with Python 300h - FreeCodeCamp](https://www.freecodecamp.org/certification/JeanQuadros/data-analysis-with-python-v7)  
+- [JavaScript Algorithms and Data Structures 300h - FreeCodeCamp](https://www.freecodecamp.org/certification/JeanQuadros/javascript-algorithms-and-data-structures)  
+- **Full Stack Pro: JavaScript Stack** 50h – Sujeito Programador.  
 - **Azure Fundamentals** – Microsoft. (Em conclusão)  
-- **Aprendizado de Máquina com Python** – FreeCodeCamp.  
-- **Full Stack Pro: JavaScript Stack** – Sujeito Programador.  
+- **Aprendizado de Máquina com Python** – FreeCodeCamp. (Em conclusão)  
 
 ---
 
