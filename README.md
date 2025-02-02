@@ -7,7 +7,7 @@ Sou professor universitário e pesquisador doutor em **Computação Aplicada**,c
 
 💼 **LinkedIn:** [Carlos Jean Quadros](https://www.linkedin.com/in/carlos-jean-quadros-378523aa)  
 📜 **Currículo Lattes:** [Carlos Jean Quadros](http://lattes.cnpq.br/7671868007529068)  
-🔗 **Portfólio de Projetos:** [GitHub](https://github.com/JeanQuadros-phd)  
+🔗 **Portfólio de Projetos:** [GitHub](https://github.com/JeanQuadros-phd?tab=repositories)  
 
 ---
 
